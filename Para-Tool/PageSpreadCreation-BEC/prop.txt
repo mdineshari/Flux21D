@@ -1,0 +1,4 @@
+leftpage=D:\Test-install\AquaticBiomes\html\page_000\page000.html
+rghtpage=D:\Test-install\AquaticBiomes\html\page_001\page001.html
+pagewidthpx=816
+pageheightpx=1177

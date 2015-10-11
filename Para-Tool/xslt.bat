@@ -1,0 +1,1 @@
+java -jar xalan.jar -in %1 -xsl "word-span.xsl" -out %2
